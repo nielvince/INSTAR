@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Nangcas Facebook",
+    "slug": "nangcas-facebook",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true },
+    "android": { "predictiveBackGestureEnabled": false },
+    "plugins": ["expo-router", "expo-font", "expo-image"],
+    "scheme": "hunnypiefacebook"
+  }
+}
